@@ -3,6 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 Angular Rest API 사용코드 작성
+Polling 비트코인 가격정보 가져오기
+User Car Json 데이터에서 정보 가져오기
+빗섬 비트코인 정보 가져오기
+실시간 주가 정보 가져오기
 
 ## Development server
 
