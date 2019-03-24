@@ -1,0 +1,21 @@
+{
+
+  "/api/*": {
+    "target": "https://polling.finance.naver.com/api",
+    "secure": false,
+    "pathRewrite": {
+      "^/api": ""
+    },
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/posts/*": {
+    "target": "https://jsonplaceholder.typicode.com/posts",
+    "secure": false,
+    "pathRewrite": {
+      "^/posts": ""
+    },
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
