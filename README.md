@@ -8,6 +8,8 @@ User Car Json 데이터에서 정보 가져오기
 빗섬 비트코인 정보 가져오기
 실시간 주가 정보 가져오기
 
+package.json 에서 "start": "ng serve --proxy-config proxy.conf.json" 추가
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
